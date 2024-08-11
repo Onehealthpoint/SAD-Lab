@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.6">
+  <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
+    <mxGraphModel dx="1629" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="1516e18e63f93b96-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Rule 1&lt;/th&gt;&lt;th&gt;Rule 2&lt;/th&gt;&lt;th&gt;Rule 3&lt;/th&gt;&lt;th&gt;Rule 4&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;Type&lt;/td&gt;&lt;td&gt;Full payment&lt;/td&gt;&lt;td&gt;Scholarship&lt;/td&gt;&lt;td&gt;Scholarship&lt;br&gt;&lt;/td&gt;&lt;td&gt;Scholarship&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;Marks&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;more than&lt;br&gt;90%&lt;/td&gt;&lt;td&gt;between&lt;br&gt;75% - 90%&lt;/td&gt;&lt;td&gt;less than&lt;br&gt;75%&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border: 1px solid #98bf21&quot;&gt;&lt;td style=&quot;background-color: #a7c942 ; color: #ffffff ; border: 1px solid #98bf21&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td style=&quot;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #eaf2d3 ; border: 1px solid #98bf21&quot;&gt;&lt;td style=&quot;color: rgb(255, 255, 255); border: 1px solid rgb(152, 191, 33); background-color: rgb(167, 201, 66);&quot;&gt;Scholarship &lt;br&gt;Provided&lt;/td&gt;&lt;td&gt;0%&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;td&gt;75%&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;fontSize=14;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="1090" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="1516e18e63f93b96-3" value="Decision Table" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="780" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
