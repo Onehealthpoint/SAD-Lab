@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="j58Y1ketpCQPumsnCz0f">
-    <mxGraphModel dx="1629" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,10 +15,10 @@
         <mxCell id="7Sf3gH1vpOUWFyAs1231-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Sf3gH1vpOUWFyAs1231-4" target="7Sf3gH1vpOUWFyAs1231-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Sf3gH1vpOUWFyAs1231-4" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7Sf3gH1vpOUWFyAs1231-4" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="134" y="363" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Sf3gH1vpOUWFyAs1231-5" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7Sf3gH1vpOUWFyAs1231-5" value="Cashier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="594" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Sf3gH1vpOUWFyAs1231-6" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
